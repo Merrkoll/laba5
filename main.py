@@ -1,5 +1,5 @@
 import random
-def menu():
+def main():
     fl_for_start_alg = False
     while True:
         print("1. Заполнение матрицы вручную")
@@ -76,4 +76,4 @@ def menu():
 
 
 if __name__ == "__main__":
-    menu()
+    main()
